@@ -1,12 +1,9 @@
 class Solution {
     public int candy(int[] ratings) {
         int n=ratings.length;
-        int[] candy=new int[ratings.length];
-
+        int[] candy=new int[n];
         Arrays.fill(candy,1);
-
-
-        for(int i=1; i<n;i++){
+        for(int i=1;i<n;i++){
             if(ratings[i]>ratings[i-1]){
                 candy[i]=candy[i-1]+1;
             }
@@ -16,10 +13,10 @@ class Solution {
                 candy[i]=Math.max(candy[i],candy[i+1]+1);
             }
         }
-        int totalcandy=0;
-        for(int candycount:candy){
-            totalcandy+=candycount;
+        int total=0;
+        for(int count:candy){
+            total+=count;
         }
-        return totalcandy;
+        return total;
     }
 }
