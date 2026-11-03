@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Adityasingh200446/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/Adityasingh200446/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Adityasingh200446/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Adityasingh200446/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityasingh200446/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Adityasingh200446/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Adityasingh200446/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityasingh200446/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Adityasingh200446/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Adityasingh200446/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityasingh200446/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Adityasingh200446/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Adityasingh200446/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityasingh200446/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -80,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Adityasingh200446/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityasingh200446/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Adityasingh200446/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Adityasingh200446/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
