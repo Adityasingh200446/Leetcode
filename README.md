@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Adityasingh200446/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Adityasingh200446/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Adityasingh200446/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Adityasingh200446/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Adityasingh200446/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
